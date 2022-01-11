@@ -8,14 +8,24 @@
 2. Um diretor dirige no máximo um departamento. Um
 departamento tem no máximo um diretor
 
-![image](https://user-images.githubusercontent.com/93041258/149006075-901df904-82e6-40ee-9904-ad7edb1a541c.png)
+![image](https://user-images.githubusercontent.com/93041258/149007524-efa8da88-57d8-430e-87b7-4b2d021308b4.png)
 
 3. Um autor escreve vários livros. Um livro pode ser
 escrito por vários autores.
+
+![image](https://user-images.githubusercontent.com/93041258/149009057-dd83d747-7edc-4f4e-966d-6983b8f97988.png)
+
 4. Uma equipe é composta por vários jogadores. Um
 jogador joga apenas em uma equipe.
+
+![image](https://user-images.githubusercontent.com/93041258/149009419-c02bfad0-396c-44c1-afc8-1934f39d13ac.png)
+
+
 5. Um cliente realiza várias encomendas. Uma
 encomenda diz respeito apenas a um cliente.
+
+![image](https://user-images.githubusercontent.com/93041258/149010248-075a8822-d3c3-49e9-a260-5a731aece76f.png)
+
 
 ## Normalização
 
