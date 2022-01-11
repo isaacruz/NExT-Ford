@@ -6,10 +6,9 @@
 > Continuação da aula 5
 
 2. Um diretor dirige no máximo um departamento. Um
-departamento tem no máximo um diretor.
+departamento tem no máximo um diretor
 
-![image](https://user-images.githubusercontent.com/93041258/149005874-9d5e5326-811d-483a-b543-4602f4281f91.png)
-
+![image](https://user-images.githubusercontent.com/93041258/149006075-901df904-82e6-40ee-9904-ad7edb1a541c.png)
 
 3. Um autor escreve vários livros. Um livro pode ser
 escrito por vários autores.
